@@ -1,5 +1,6 @@
 <?php get_header(); ?>
 
+
 <div id="main_visual">
   <div class="wrap">
     <h2><?php echo nl2br(get_option('top_catchcopy'));?></h2>
